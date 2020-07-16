@@ -1,0 +1,2 @@
+#implemeting count on string
+

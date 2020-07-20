@@ -1,4 +1,6 @@
 #implementing strip function
+import os
+os.system("clear")
 
 string1 = "*Python Scripting*"
 string2 = 'xoxo love xoxo'

@@ -1,5 +1,8 @@
 #implementing set in python.
 
+import os
+os.system("clear")
+
 #define sets
 myset = {0,1,2,3,4,5,6,7,8,9,10}
 emptyset = set()

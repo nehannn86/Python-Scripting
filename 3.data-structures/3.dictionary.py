@@ -1,5 +1,8 @@
 #implementing dict in python.
 
+import os
+os.system("clear")
+
 #defining dict 
 mydict = {'A':'Apple','B':'Ball','C':'Cat','D':'Dog','E':'Elephant'}
 print('mydict: ',mydict)

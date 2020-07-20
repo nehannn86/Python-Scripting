@@ -2,6 +2,7 @@
 #getting terminal size using os module.
 
 import os
+os.system("clear")
 tsize=os.get_terminal_size().columns
 print('Terminal Size is:',tsize)
 

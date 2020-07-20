@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 #implementing arithmetic operators.
 import os
 
@@ -33,7 +31,7 @@ def Exponential(num1, num2):
     Exponential = num1 ** num2
     print(f'Exponential of {num1} & {num2} is: ',Exponential)
 
-print('***Arithmetic Calculator***')
+print('***Arithmetic Operators***')
 print('Chhose the operation to perform by typing option number:\n1. Addition\n2. Substraction\n3. Multiplication\n4. Division\n5. Modulus\n6. Floor Division\n7. Exponential')
 option = int(input('Enter your Option: '))
 num1=int(input('Enter Nmumber1: '))

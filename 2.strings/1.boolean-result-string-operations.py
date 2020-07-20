@@ -1,3 +1,6 @@
+import os
+os.system("clear")
+
 mystring='Python Scripting version:3.8'
 print('\n Original String:', mystring)
 print('\n Check Boolean value of string?:', bool(mystring))

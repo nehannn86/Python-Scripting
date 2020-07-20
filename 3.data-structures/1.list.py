@@ -1,4 +1,7 @@
 #creating simple list
+import os
+os.system("clear")
+
 vowels = ['a','e','i','o','u']
 print('List: ',vowels)
 print('List Type: ',type(vowels))
